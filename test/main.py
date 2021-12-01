@@ -12,4 +12,6 @@ this is to check for reword
   pass 
 this is to check for unix edit 
   pass 
+this is to ck for user 1
+  pass
 
